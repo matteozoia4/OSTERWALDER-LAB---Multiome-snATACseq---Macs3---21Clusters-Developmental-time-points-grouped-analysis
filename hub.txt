@@ -1,0 +1,5 @@
+hub ATACseq Multiome-seq 21Clusters - Macs3 - Developmental time-points grouped analysis
+shortLabel ATACseq Multiome 21Clusters
+longLabel ATACseq Multiome-seq Javier.2022 Macs3 - Developmental time-points (e09.5,e10.5,e11.5) are grouped - Macs3 peak calling 
+genomesFile genomes.txt 
+email  matteo.zoia@dbmr.unibe.ch
