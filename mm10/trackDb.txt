@@ -1,7 +1,7 @@
 track Myeloid_progenitors_cells_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d88060df08926cae/display?to_ext=bigwig
     shortLabel Cluster 21 - Extra-cardiac : (MP)Myeloid_progenitors
-    longLabel MP - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)
+    longLabel MP - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)
     type bigWig 0 30000
     configurable on
     visibility full
@@ -31,7 +31,7 @@ color 0,0,0
 track RBC_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213585cd226bf6eb10cb/display?to_ext=bigwig
     shortLabel Cluster 20 - Extra-cardiac : (RBC)Red-blood-cells
-    longLabel RBC - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel RBC - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -61,7 +61,7 @@ color 0,0,0
 track NCC_like_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135047e27d3bc4c1c5d/display?to_ext=bigwig
     shortLabel Cluster 19 - Extra-cardiac : (NCC_like)Neural-crest-like
-    longLabel NCC_like - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel NCC_like - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -93,7 +93,7 @@ color 0,0,0
 track TP_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d6e80cea5628cc34/display?to_ext=bigwig
     shortLabel Cluster 18 - Extra-cardiac : (TP)Thyroid-primordium
-    longLabel TP - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel TP - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -126,7 +126,7 @@ color 0,0,0
 track PA_endo_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e070474d0382bb5f/display?to_ext=bigwig
     shortLabel Cluster 17 - Extra-cardiac : (PA_endo)Pharyngeal-arch-endoderm
-    longLabel PA_endo - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel PA_endo - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -160,7 +160,7 @@ color 0,0,0
 track PA_ecto_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135280039c1deb514a9/display?to_ext=bigwig
     shortLabel Cluster 16 - Extra-cardiac : (PA_ecto)Pharyngeal-arch-ectoderm
-    longLabel PA_ecto - e09.5,e10.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel PA_ecto - e09.5,e10.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -193,7 +193,7 @@ color 0,0,0
 track PaM_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135086bacd11100454c/display?to_ext=bigwig
     shortLabel Cluster 15 - Extra-cardiac : (PaM)Paraxial-mesenchime
-    longLabel PaM - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel PaM - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -226,7 +226,7 @@ color 0,0,0
 track PE_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135346f36307a55e754/display?to_ext=bigwig
     shortLabel Cluster 14 - Extra-cardiac : (PE)Pulmonary-endoderm
-    longLabel PE - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel PE - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -260,7 +260,7 @@ color 0,0,0
 track SMC-FB_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135711ab78fcf634c71/display?to_ext=bigwig
     shortLabel Cluster 13 - Cardiac : (SMC-FB)Smooth-muscle-cells-Fibroblasts
-    longLabel SMC-FB - e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel SMC-FB - e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -294,7 +294,7 @@ color 0,0,0
 track EP_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359feafdcf755b5688/display?to_ext=bigwig
     shortLabel Cluster 12 - Cardiac : (EP)Epicardial
-    longLabel EP - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel EP - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -326,7 +326,7 @@ color 0,0,0
 track EndMT_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135303c49d7d9b5fd8e/display?to_ext=bigwig
     shortLabel Cluster 11 - Cardiac : (EndMT)Endocardial-to-mesenchymal-transition
-    longLabel EndMT - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel EndMT - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -359,7 +359,7 @@ color 0,0,0
 track EC_e_l_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e4ac3897369b2187/display?to_ext=bigwig
     shortLabel Cluster 10 - Cardiac : (EC-e-l)Endocardial-early-late
-    longLabel EC-e-l - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel EC-e-l - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -392,7 +392,7 @@ color 0,0,0
 track VEC_e_l_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ff5c48b1ec669753/display?to_ext=bigwig
     shortLabel Cluster 09 - Cardiac : (VEC)Vascular-endothelial
-    longLabel VEC-e-l - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel VEC-e-l - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -426,7 +426,7 @@ color 0,0,0
 track cNCC_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135622cc0734711c86a/display?to_ext=bigwig
     shortLabel Cluster 08 - Cardiac : (cNCC)Cardiac-neural-crest
-    longLabel cNCC - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel cNCC - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -459,7 +459,7 @@ color 0,0,0
 track CPM-OFT_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213533acb58fad046031/display?to_ext=bigwig
     shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-tract
-    longLabel CPM-OFT - e09.5,e10.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel CPM-OFT - e09.5,e10.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -493,7 +493,7 @@ color 0,0,0
 track aSHF-OFT_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213587ed2b970653d59b/display?to_ext=bigwig
     shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-tract
-    longLabel aSHF-OFT - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel aSHF-OFT - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -526,7 +526,7 @@ color 0,0,0
 track pSHF_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ad51489694cef74f/display?to_ext=bigwig
     shortLabel Cluster 05 - Cardiac : (pSHF)Posterior-second-heart-field
-    longLabel pSHF - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel pSHF - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -559,7 +559,7 @@ color 0,0,0
 track SV_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b3b41c88f7419444/display?to_ext=bigwig
     shortLabel Cluster 04 - Cardiac : (SV)Sinus-venosus
-    longLabel SV - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel SV - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -591,7 +591,7 @@ color 0,0,0
 track AVC_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b748a51c621a9f9d/display?to_ext=bigwig
     shortLabel Cluster 03 - Cardiac : (AVC)Atrio-ventricular-canal
-    longLabel AVC - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel AVC - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -622,7 +622,7 @@ color 0,0,0
 track aCM_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fa30fe03af7e7c1d/display?to_ext=bigwig
     shortLabel Cluster 02 - Cardiac : (aCM)Atrial-cardiomyocytes
-    longLabel aCM - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel aCM - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
@@ -655,7 +655,7 @@ color 0,0,0
 track vCM_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359ab5786524995469/display?to_ext=bigwig
     shortLabel Cluster 01 - Cardiac : (vCM)Ventricular_cardiomyocytes
-    longLabel vCM - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
+    longLabel vCM - e09.5,e10.5,e11.5 (Profiles / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
     visibility full
