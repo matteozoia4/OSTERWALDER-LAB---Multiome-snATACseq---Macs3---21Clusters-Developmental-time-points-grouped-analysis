@@ -458,7 +458,7 @@ color 0,0,0
 
 track CPM-OFT_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213533acb58fad046031/display?to_ext=bigwig
-    shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-track
+    shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-tract
     longLabel CPM-OFT - e09.5,e10.5 (Macs3 peaks / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
@@ -481,7 +481,7 @@ track CPM-OFT_ATACseq_Multiome_GROUPED-PROFILE
 track CPM-OFT_ATACseq_Multiome_GROUPED-PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ed4cd3e7cb04fa39/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-track
+shortLabel Cluster 07 - Extra-cardiac : (CPM-OFT)Cardiopharyngeal-mesenchyme-Out-flow-tract
 longLabel CPM-OFT - e09.5,e10.5 (Macs3 peaks / Developmental time-points are grouped)   
 type bigBed 3 +
 configurable on
@@ -492,7 +492,7 @@ color 0,0,0
 
 track aSHF-OFT_ATACseq_Multiome_GROUPED-PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213587ed2b970653d59b/display?to_ext=bigwig
-    shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track
+    shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-tract
     longLabel aSHF-OFT - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)  
     type bigWig 0 30000
     configurable on
@@ -515,7 +515,7 @@ track aSHF-OFT_ATACseq_Multiome_GROUPED-PROFILE
 track aSHF-OFT_ATACseq_Multiome_GROUPED-PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213587614f89c8ea2955/display?to_ext=bigbed
 itemRgb on
-shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-track
+shortLabel Cluster 06 - Cardiac : (aSHF-OFT)Anterior-second-heart-field-Out-flow-tract
 longLabel aSHF-OFT - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)    
 type bigBed 3 +
 configurable on
