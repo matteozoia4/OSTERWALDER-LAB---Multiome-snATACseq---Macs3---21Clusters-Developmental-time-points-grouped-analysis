@@ -82,7 +82,7 @@ track NCC_like_ATACseq_Multiome_GROUPED-PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f38f673d08e50004/display?to_ext=bigbed
 itemRgb on
 shortLabel Cluster 19 - Extra-cardiac : (NCC_like)Neural-crest-like 
-longLabel NCC-like - MACS3 - e09.5,e10.5,e11.5 GROUPED-ANALYSIS (Developmental time-points grouped)    
+longLabel NCC-like - e09.5,e10.5,e11.5 (Macs3 peaks / Developmental time-points are grouped)     
 type bigBed 3 +
 configurable on
 visibility dense
